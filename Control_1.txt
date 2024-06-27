@@ -1,0 +1,18 @@
+I. 
+a. Finanzas: Segmentación de clientes al día que puedan ingresar en mora
+b. Categoria: Cobranza
+   Caso de uso: Gestión preventiva en la cobranza
+
+II.
+a. Decisiones clave: Ofrecer facilidad de pago o no
+   Metricas: Ingreso en mora despues de su fecha de pago
+   Palancas relevantes: Campañas de cobranza, intensidad en la comunicación, recompensas por estar al dia
+b. Incertidumbre: No sabemos que cliente va a ingresar en mora
+   Resultados esperados: Menor ratio de ingreso en mora
+
+III.
+a. Modelo que permita identificar clientes con mayor probabilidad de ingresar en mora
+b Que: por que ingresan en mora los clientes, que se viene haciendo para mitigar el ingreso en mora, como impactan los clientes morosos
+  Entonces que: como se usara el modelo en la gestion preventiva, que acciones se haran sobre los clientes mas propensos a ser morosos 
+  Ahora que: cuando se empezara con la nueva estrategia, que areas necesitan estar involucradas
+
